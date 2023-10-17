@@ -1,4 +1,4 @@
-//test
+//Needed to find some JS, not my code, but I understand it.
 let currentImageIndex = 0;
 let imageElements = document.querySelectorAll('.multipleimages');
 let interval;
