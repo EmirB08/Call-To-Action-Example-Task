@@ -1,3 +1,4 @@
+//test
 let currentImageIndex = 0;
 let imageElements = document.querySelectorAll('.multipleimages');
 let interval;
